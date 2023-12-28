@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/https//rahulbhola.github.io/HairPalaceLondon/static/css/main.6a69e436.css",
+    "main.js": "/https//rahulbhola.github.io/HairPalaceLondon/static/js/main.542089b4.js",
+    "static/media/bannerImg.png": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/bannerImg.fc0dd10e0c5cece5fe91.png",
+    "static/media/pricing-15.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-15.a6409773482fc7f3975f.jpg",
+    "static/media/logo.png": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/logo.96b0d8eca14a07d5f743.png",
+    "static/media/pricing-9.jpeg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-9.6bcd9d22d1861cd28078.jpeg",
+    "static/media/pricing-10.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-10.66f61dd04265ee3832d2.jpg",
+    "static/media/pricing-6.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-6.5d4389cfbb8bc9070724.jpg",
+    "static/media/pricing-18.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-18.f14dd850eee1ec333555.jpg",
+    "static/media/contactImg.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/contactImg.4012bf871d1d59eb3670.jpg",
+    "static/media/pricing-3.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-3.bb5b95c60beb7b90cf64.jpg",
+    "static/media/pricing-17.webp": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-17.b240551014b5eebfc6f9.webp",
+    "static/media/pricing-11.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-11.d5e525ed65203a206cb7.jpg",
+    "static/media/pricing-13.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-13.af7bc489c426ff11ebe9.jpg",
+    "static/media/pricing-7.webp": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-7.b3c03ff1499822285bb1.webp",
+    "static/media/pricing-2.jpg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-2.05ef3ac44d8e0f390356.jpg",
+    "static/media/pricing-12.jpeg": "/https//rahulbhola.github.io/HairPalaceLondon/static/media/pricing-12.5982375007598631ce62.jpeg",
+    "index.html": "/https//rahulbhola.github.io/HairPalaceLondon/index.html",
+    "main.6a69e436.css.map": "/https//rahulbhola.github.io/HairPalaceLondon/static/css/main.6a69e436.css.map",
+    "main.542089b4.js.map": "/https//rahulbhola.github.io/HairPalaceLondon/static/js/main.542089b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a69e436.css",
+    "static/js/main.542089b4.js"
+  ]
+}
